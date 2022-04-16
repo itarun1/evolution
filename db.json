@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "country": "pakistan",
+      "city": "lahore",
+      "population": "500000",
+      "id": 5
+    },
+    {
+      "country": "bangladesh",
+      "city": "dhaka",
+      "population": "20000",
+      "id": 6
+    },
+    {
+      "country": "england",
+      "city": "menchester",
+      "population": "3000000",
+      "id": 7
+    },
+    {
+      "country": "kdop",
+      "city": "jui",
+      "population": "4556",
+      "id": 8
+    },
+    {
+      "country": "er",
+      "city": "re",
+      "population": "67676",
+      "id": 9
+    },
+    {
+      "country": "dfg",
+      "city": "hf",
+      "population": "3434",
+      "id": 10
+    }
+  ]
+}
